@@ -2,7 +2,7 @@
 
 A comprehensive iOS expense tracking app with recurring bills, category budgets, rich Swift Charts analytics, and CSV export.
 
-![Swift](https://img.shields.io/badge/Swift-5.9-F05138?logo=swift&logoColor=white) ![Platform](https://img.shields.io/badge/iOS-16%2B-blue) ![Architecture](https://img.shields.io/badge/Architecture-MVVM-orange) ![License](https://img.shields.io/badge/License-MIT-green)
+![CI](https://github.com/ranazaid/expense-tracker-ios/actions/workflows/ci.yml/badge.svg) ![Swift](https://img.shields.io/badge/Swift-5.9-F05138?logo=swift&logoColor=white) ![Platform](https://img.shields.io/badge/iOS-16%2B-blue) ![Architecture](https://img.shields.io/badge/Architecture-MVVM-orange) ![License](https://img.shields.io/badge/License-MIT-green)
 
 | ![](Screenshots/1.png) | ![](Screenshots/2.png) | ![](Screenshots/3.png) |
 |---|---|---|
