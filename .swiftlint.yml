@@ -1,0 +1,17 @@
+disabled_rules:
+  - line_length
+  - trailing_whitespace
+opt_in_rules:
+  - empty_count
+  - closure_spacing
+  - contains_over_first_not_nil
+included:
+  - ExpenseTracker
+excluded:
+  - ExpenseTracker.xcodeproj
+identifier_name:
+  min_length: 2
+type_body_length:
+  warning: 400
+file_length:
+  warning: 600
